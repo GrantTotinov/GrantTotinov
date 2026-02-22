@@ -32,9 +32,12 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GrantTotinov&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GrantTotinov&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GrantTotinov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=GrantTotinov&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
+
+![](https://streak-stats.demolab.com?user=GrantTotinov&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GrantTotinov&layout=compact&theme=dark&count_private=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
