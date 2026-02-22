@@ -24,16 +24,10 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-# 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=GrantTotinov&theme=dark&hide_border=false)
-
-<details>
-  <summary>More stats</summary>
-
-![](https://github-readme-stats.vercel.app/api?username=GrantTotinov&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GrantTotinov&theme=dark&hide_border=false&layout=compact)
-
-</details>
+ 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GrantTotinov&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GrantTotinov&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GrantTotinov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 💫 About Me
 Hi, I’m Grant Totinov — React/TypeScript + .NET developer.  
