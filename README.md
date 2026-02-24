@@ -1,43 +1,44 @@
-# 💫 About Me:
-👋 Hi, I’m Grant Totinov — React/TypeScript + .NET developer<br><br>🔧 Tech: React, TypeScript, ASP.NET Core Web API, REST, PostgreSQL/SQLite, Azure<br><br>🤖 Built a RAG document Q&A app (embeddings + vector search + LLM)<br><br>📱 Built cross-platform apps (React Native / .NET MAUI)<br><br>🏋️ Strength training, consistent and disciplined mindset
+<h1 align="center">Hi 👋 I'm Grant Totinov</h1>
 
+<p align="center">
+Full-Stack Developer • .NET • React • AI Applications
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/granttotinov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:granttotinov604@gmail.com) 
-
-# 💻 Tech Stack
-
-### 👨‍💻 Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### ⚙️ Frameworks & Runtime
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-### ☁️ Cloud & Backend
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🗄️ Databases
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+Building scalable backend systems and AI-powered products.
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=.NET+Developer;React+Engineer;AI+App+Builder;Clean+Architecture+Enthusiast&center=true&width=500&height=45">
+</p>
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=GrantTotinov&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GrantTotinov&show_icons=true&theme=tokyonight"/>
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GrantTotinov&theme=tokyonight"/>
+</p>
+## 📈 Contribution Graph
 
-![](https://streak-stats.demolab.com?user=GrantTotinov&theme=dark&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GrantTotinov&theme=tokyo-night"/>
+## 🧰 Tech Stack
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GrantTotinov&layout=compact&theme=dark&count_private=true)
+### Backend
+C# • ASP.NET Core • REST APIs • Clean Architecture
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Frontend
+React • TypeScript • Angular • React Native
+
+### Cloud & Database
+Azure • PostgreSQL • SQL Server • Firebase
+
+### AI
+RAG Systems • Vector Search • LLM Integration
+## 👨‍💻 About Me
+
+• Full-Stack developer focused on scalable backend systems  
+• Building AI-powered applications  
+• Strong interest in system design and performance
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=GrantTotinov&color=blue"/>
+</p>
