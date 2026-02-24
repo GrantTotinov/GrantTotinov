@@ -1,44 +1,43 @@
-<h1 align="center">Hi 👋 I'm Grant Totinov</h1>
+<h2 align="center">Grant Totinov — Full-Stack (.NET + React) • AI Apps</h2>
+<p align="center">Scalable APIs • Clean Architecture • RAG / Vector Search</p>
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
+### 🚀 Featured
+- **AI Document Q&A (RAG)** — ASP.NET Core + React
+- **Full-Stack Web App** — Auth, REST, DB
+- **Mobile App** — React Native / .NET MAUI
+
+</td>
+<td valign="top" width="45%">
+
+### 🧰 Snapshot
+- **Backend:** C#, ASP.NET Core
+- **Frontend:** React, TS, Angular
+- **DB/Cloud:** PostgreSQL, SQL Server, Azure
+- **Focus:** Performance, architecture
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-Full-Stack Developer • .NET • React • AI Applications
+<a href="https://linkedin.com/in/granttotinov">LinkedIn</a> •
+<a href="mailto:granttotinov604@gmail.com">Email</a>
 </p>
 
-<p align="center">
-Building scalable backend systems and AI-powered products.
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=.NET+Developer;React+Engineer;AI+App+Builder;Clean+Architecture+Enthusiast&center=true&width=500&height=45">
-</p>
-## 📊 GitHub Stats
+<details>
+<summary><b>More (Tech Stack, Details, Extra Projects)</b></summary>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GrantTotinov&show_icons=true&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GrantTotinov&theme=tokyonight"/>
-</p>
-## 📈 Contribution Graph
+#### 🧰 Full Tech Stack
+(тук си сложи всички badges)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GrantTotinov&theme=tokyo-night"/>
-## 🧰 Tech Stack
+#### 🧠 About
+(тук си сложи по-дългия текст)
 
-### Backend
-C# • ASP.NET Core • REST APIs • Clean Architecture
+#### 📌 More Projects
+(допълнителни repo-та/линкове)
 
-### Frontend
-React • TypeScript • Angular • React Native
-
-### Cloud & Database
-Azure • PostgreSQL • SQL Server • Firebase
-
-### AI
-RAG Systems • Vector Search • LLM Integration
-## 👨‍💻 About Me
-
-• Full-Stack developer focused on scalable backend systems  
-• Building AI-powered applications  
-• Strong interest in system design and performance
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=GrantTotinov&color=blue"/>
-</p>
+</details>
