@@ -1,11 +1,18 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=2200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=.NET+%2B+React+Engineer;AI+%2F+RAG+Systems;ASP.NET+Core+APIs+%7C+React+Native"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=2200&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=.NET+%2B+React+Engineer;AI+%2F+RAG+Systems;ASP.NET+Core+APIs+%7C+React+Native"
   />
 </p>
 
-<p align="center"><b>ASP.NET Core APIs • React/React Native • RAG pipelines</b></p>
+<p align="center">
+  <span style="font-size:20px; font-weight:700; color:#38BDF8;">
+    ASP.NET Core APIs • React/React Native • RAG Pipelines
+  </span>
+</p>
+
+---
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
