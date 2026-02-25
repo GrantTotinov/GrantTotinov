@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <span style="font-size:20px; font-weight:700; color:#38BDF8;">
+  <strong>
     ASP.NET Core APIs • React/React Native • RAG Pipelines
-  </span>
+  </strong>
 </p>
 
 ---
