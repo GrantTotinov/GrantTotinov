@@ -1,6 +1,2 @@
-<p align="center">
-  <b>.NET</b> • <b>React</b> • <b>AI/RAG</b> • <b>Azure</b> • <b>Docker</b>
-</p>
-<p align="center">
-  Clean Architecture • Retrieval Pipelines • Production-ready APIs
-</p>
+<p align="center"><b>.NET & React Full-Stack Engineer • AI / RAG Systems</b></p>
+<p align="center">Scalable APIs • Clean Architecture • Vector Search • CI/CD</p>
