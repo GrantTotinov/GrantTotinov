@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>
-    ASP.NET Core APIs • React/React Native • RAG Pipelines
+    Open Source Contributor
   </strong>
 </p>
 
