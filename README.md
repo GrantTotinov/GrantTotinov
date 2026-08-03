@@ -1,12 +1,12 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=2200&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=.NET+%2B+React+Engineer;AI+%2F+RAG+Systems;ASP.NET+Core+APIs+%7C+React+Native"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=2200&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=.NET+%2B+Python+Engineer;AI+%2F+RAG+Systems;ASP.NET+Core+APIs+%7C+React+Native"
   />
 </p>
 
 <p align="center">
   <strong>
-    Open Source Contributor
+    Active Open Source Contributor
   </strong>
 </p>
 
