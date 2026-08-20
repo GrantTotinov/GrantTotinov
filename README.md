@@ -4,11 +4,21 @@
   />
 </p>
 
+---
+
+## Support my open-source work
+
+I'm trying to spend more time contributing to open source, mainly around .NET and ASP.NET Core.
+
+If you like what I'm doing and want to help, you can sponsor me on GitHub:
+
 <p align="center">
-  <strong>
-    Contributing to open-source software through bug fixes, framework improvements, and pull requests.
-  </strong>
+  <a href="https://github.com/sponsors/GrantTotinov">
+    <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  </a>
 </p>
+
+I'm saving for a PhD too, so it helps with that as well. Even a small amount goes a long way for me.
 
 ---
 
