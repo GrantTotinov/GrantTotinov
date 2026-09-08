@@ -1,8 +1,4 @@
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=2200&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=.NET+Software+Engineer;Open+Source+Contributor;AI+Applications+%E2%80%A2+Python+%E2%80%A2+React"
-  />
-</p>
+⭐ **Try my [GPT Chat Downloader](https://github.com/GrantTotinov/GPTChatDownloader) extension and give it a Star if you find it useful!** 
 
 ---
 
