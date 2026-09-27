@@ -1,4 +1,4 @@
-<p align="center"> <h2>⭐ Try my <a href="https://github.com/GrantTotinov/GPTChatDownloader">GPT Chat Downloader</a> extension and give it a Star if you find it useful!</h2> </p>
+<p align="center"> <h2>⭐ Try my <a href="https://github.com/GrantTotinov/GPTChatDownloader">AI Exporter</a> extension and give it a Star if you find it useful!</h2> </p>
 
 <p align="center"> <a href="https://chromewebstore.google.com/detail/gptchatdownloader/objkcakdcilfaphifjfcgfamlnnbinjc"> <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Download-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="https://addons.mozilla.org/en-US/firefox/addon/gptchatdownloader/"> <img src="https://img.shields.io/badge/Firefox%20Add--ons-Download-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /> </a> </p>
 
