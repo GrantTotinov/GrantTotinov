@@ -1,19 +1,36 @@
 <p align="center"> <h2>⭐ Try my <a href="https://github.com/GrantTotinov/GPTChatDownloader">AI Exporter</a> extension and give it a Star if you find it useful!</h2> </p>
 
-<p align="center"> <a href="https://chromewebstore.google.com/detail/gptchatdownloader/objkcakdcilfaphifjfcgfamlnnbinjc"> <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Download-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="https://addons.mozilla.org/en-US/firefox/addon/gptchatdownloader/"> <img src="https://img.shields.io/badge/Firefox%20Add--ons-Download-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /> </a> </p>
-
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/gptchatdownloader/objkcakdcilfaphifjfcgfamlnnbinjc">
+    <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Download-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/aiexporter/">
+    <img src="https://img.shields.io/badge/Firefox%20Add--ons-Download-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+  </a>
+  <!-- TODO: replace with Edge Add-ons link once approved -->
+  <img src="https://img.shields.io/badge/Edge%20Add--ons-Coming%20soon-6E6E6E?style=for-the-badge&logo=microsoftedge&logoColor=white" />
+</p>
 
 ---
 
 ## Support my open-source work
 
-I'm trying to spend more time contributing to open source, mainly around .NET and ASP.NET Core.
+<p align="center">
+  <a href="https://dotnetfoundation.org/">
+    <img src="https://img.shields.io/badge/Member-.NET%20Foundation-512BD4?style=for-the-badge&labelColor=2B2B2B" />
+  </a>
+</p>
 
-If you like what I'm doing and want to help, you can sponsor me on GitHub:
+I'm a member of the **.NET Foundation** and I'm trying to spend more time contributing to open source, mainly around .NET and ASP.NET Core.
+
+If you like what I'm doing and want to help, you can sponsor me on GitHub or buy me a coffee:
 
 <p align="center">
   <a href="https://github.com/sponsors/GrantTotinov">
     <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  </a>
+  <a href="https://buymeacoffee.com/granttotinov">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </p>
 
