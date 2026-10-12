@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Firefox%20Add--ons-Download-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
   <a href="https://microsoftedge.microsoft.com/addons/detail/ai-exporter-chatgpt-cla/ogkpijnjfiebjpcllkkgablmiijgjhim">
-  <img src="https://img.shields.io/badge/Edge%20Add--ons-Coming%20soon-6E6E6E?style=for-the-badge&logo=microsoftedge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Edge%20Add--ons-Download-4285F4?style=for-the-badge&logo=microsoftedge&logoColor=white" />
   </a>
   </p>
 
