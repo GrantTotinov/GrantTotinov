@@ -1,4 +1,25 @@
-<p align="center"> <h2>⭐ Try my <a href="https://github.com/GrantTotinov/GPTChatDownloader">AI Exporter</a> extension and give it a Star if you find it useful!</h2> </p>
+
+## Support my open-source work
+
+<p align="center">
+  <h2>🖼️ Check out my <a href="https://github.com/GrantTotinov/PixelForge">PixelForge</a> library for .NET!</h2>
+  <p>A lightweight, MIT-licensed image processing library for .NET, built on SkiaSharp. Simple API, no license key, and safe defaults for user uploads.</p>
+</p>
+
+<p align="center">
+  <a href="https://www.nuget.org/packages/PixelForge/">
+    <img src="https://img.shields.io/badge/NuGet-Install-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="Install PixelForge from NuGet" />
+  </a>
+  <a href="https://github.com/GrantTotinov/PixelForge">
+    <img src="https://img.shields.io/badge/GitHub-View%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="View PixelForge on GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <h2>⭐ Try my <a href="https://github.com/GrantTotinov/GPTChatDownloader">AI Exporter</a> extension and give it a Star if you find it useful!</h2>
+</p>
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/gptchatdownloader/objkcakdcilfaphifjfcgfamlnnbinjc">
@@ -8,18 +29,19 @@
     <img src="https://img.shields.io/badge/Firefox%20Add--ons-Download-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
   <a href="https://microsoftedge.microsoft.com/addons/detail/ai-exporter-chatgpt-cla/ogkpijnjfiebjpcllkkgablmiijgjhim">
-  <img src="https://img.shields.io/badge/Edge%20Add--ons-Download-4285F4?style=for-the-badge&logo=microsoftedge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Edge%20Add--ons-Download-4285F4?style=for-the-badge&logo=microsoftedge&logoColor=white" />
   </a>
-  </p>
+</p>
 
 ---
-
-## Support my open-source work
 
 <p align="center">
   <a href="https://dotnetfoundation.org/">
     <img src="https://img.shields.io/badge/Member-.NET%20Foundation-512BD4?style=for-the-badge&labelColor=2B2B2B" />
   </a>
+  <a href="https://learn.microsoft.com/en-us/answers/">
+  <img src="https://img.shields.io/badge/Microsoft-Q%26A%20Champion-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
 </p>
 
 I'm a member of the **.NET Foundation** and I'm trying to spend more time contributing to open source, mainly around .NET and ASP.NET Core.
