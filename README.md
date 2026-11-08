@@ -15,7 +15,7 @@ Everything I make is free to use. If something here saved you some time, you can
 
 ## Free tools I build
 
-- **[AI Exporter](https://github.com/GrantTotinov/AIExporter)**: saves your ChatGPT, Claude, Gemini and other AI chats as PDF, Word, Markdown and more. 400+ users, rated 5/5. [Chrome](https://chromewebstore.google.com/detail/gptchatdownloader/objkcakdcilfaphifjfcgfamlnnbinjc) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/aiexporter/) · [Edge](https://microsoftedge.microsoft.com/addons/detail/ai-exporter-chatgpt-cla/ogkpijnjfiebjpcllkkgablmiijgjhim)
+- **[AI Exporter](https://github.com/GrantTotinov/AIExporter)**: saves your ChatGPT, Claude, Gemini and other AI chats as PDF, Word, Markdown and more. 700+ users, rated 5/5. [Chrome](https://chromewebstore.google.com/detail/gptchatdownloader/objkcakdcilfaphifjfcgfamlnnbinjc) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/aiexporter/) · [Edge](https://microsoftedge.microsoft.com/addons/detail/ai-exporter-chatgpt-cla/ogkpijnjfiebjpcllkkgablmiijgjhim)
 - **[PixelForge](https://github.com/GrantTotinov/PixelForge)**: MIT image processing for .NET with an ImageSharp-style API, no license key and safe defaults for user uploads. [NuGet](https://www.nuget.org/packages/PixelForge)
 - **[UploadGuard](https://github.com/GrantTotinov/UploadGuard)**: secure file uploads for ASP.NET Core that catch zip bombs, macros, PDF JavaScript and disguised files. [NuGet](https://www.nuget.org/packages/UploadGuard)
 - **[aspnetcore-security-bench](https://github.com/GrantTotinov/aspnetcore-security-bench)**: a benchmark and [technical report](https://doi.org/10.5281/zenodo.23822216) on ASP.NET Core misconfigurations that CodeQL, Semgrep and the .NET analyzers all miss.
