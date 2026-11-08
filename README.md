@@ -19,7 +19,6 @@ Everything I make is free to use. If something here saved you some time, you can
 - **[PixelForge](https://github.com/GrantTotinov/PixelForge)**: MIT image processing for .NET with an ImageSharp-style API, no license key and safe defaults for user uploads. [NuGet](https://www.nuget.org/packages/PixelForge)
 - **[UploadGuard](https://github.com/GrantTotinov/UploadGuard)**: secure file uploads for ASP.NET Core that catch zip bombs, macros, PDF JavaScript and disguised files. [NuGet](https://www.nuget.org/packages/UploadGuard)
 - **[aspnetcore-security-bench](https://github.com/GrantTotinov/aspnetcore-security-bench)**: a benchmark and [technical report](https://doi.org/10.5281/zenodo.23822216) on ASP.NET Core misconfigurations that CodeQL, Semgrep and the .NET analyzers all miss.
-- Earlier projects: [AiChatRagSystem](https://github.com/GrantTotinov/AiChatRagSystem), [GrantFoodsMAUI](https://github.com/GrantTotinov/GrantFoodsMAUI) and [uni-event-app](https://github.com/GrantTotinov/uni-event-app).
 
 ## Open source contributions
 
