@@ -1,7 +1,7 @@
-## Support my work
+## Thanks for stopping by!
 
 I'm a member of the **.NET Foundation** and I spend most of my time on open source, building .NET libraries, ASP.NET Core security tooling and browser extensions, and contributing to ASP.NET Core and the wider .NET ecosystem.
-If my work helps you, you can sponsor me on GitHub or buy me a coffee. I'm also saving for a PhD, so even a small amount goes a long way.
+Everything I make is free to use. If something here saved you some time, you can say thanks by sponsoring me on GitHub or buying me a coffee. I'm also saving up for a PhD, so every little bit really helps.
 
 <p>
   <a href="https://github.com/sponsors/GrantTotinov"><img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
@@ -13,13 +13,13 @@ If my work helps you, you can sponsor me on GitHub or buy me a coffee. I'm also 
   <a href="https://learn.microsoft.com/en-us/answers/"><img src="https://img.shields.io/badge/Microsoft-Q%26A%20Champion-0078D4?style=for-the-badge&labelColor=2B2B2B" alt="Microsoft Q&amp;A Champion" /></a>
 </p>
 
-## Projects
+## Free tools I build
 
-- **[AI Exporter](https://github.com/GrantTotinov/AIExporter)**: a free browser extension with 400+ users and a 5/5 rating on the Chrome Web Store and Firefox Add-ons. It exports conversations from 15 AI chat sites, including ChatGPT, Claude, Gemini, DeepSeek, Grok, Perplexity and Copilot, to 9 formats such as PDF, Word, Excel and Markdown, images included. Instead of scraping the page, it reads each site's own conversation API, so long chats and branches come out complete. Everything runs locally in the browser, with automatic backups to a folder or a private GitHub repository and an interface in 13 languages. Get it for [Chrome](https://chromewebstore.google.com/detail/gptchatdownloader/objkcakdcilfaphifjfcgfamlnnbinjc), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/aiexporter/) or [Edge](https://microsoftedge.microsoft.com/addons/detail/ai-exporter-chatgpt-cla/ogkpijnjfiebjpcllkkgablmiijgjhim), or visit the [website](https://granttotinov.github.io/AIExporter/).
-- **[PixelForge](https://github.com/GrantTotinov/PixelForge)**: MIT image processing for .NET, built on SkiaSharp. If you have used ImageSharp, you already know the API, with no license key and no build-time checks. It is safe by default for user uploads: decompression bombs are rejected from the header before any pixel memory is allocated, and EXIF and GPS metadata never reach the output. It runs on Windows, macOS, Debian and Alpine, x64 and arm64, with no native packages to install. On [NuGet](https://www.nuget.org/packages/PixelForge).
-- **[UploadGuard](https://github.com/GrantTotinov/UploadGuard)**: secure file uploads for ASP.NET Core from one declarative policy. It detects the real file type from its bytes and looks inside for zip bombs, zip slip, Office macros, PDF JavaScript, SVG scripts and image polyglots, with optional ClamAV scanning and image re-encoding through PixelForge. In its published comparison it handles all 14 test files correctly, where popular file-type detection libraries get 4 and 6. On [NuGet](https://www.nuget.org/packages/UploadGuard).
-- **[When Protections Silently Do Not Apply](https://github.com/GrantTotinov/aspnetcore-security-bench)**: a [technical report](https://doi.org/10.5281/zenodo.23822216) and benchmark of ASP.NET Core misconfigurations that switch off antiforgery, rate limiting and CORS while the app runs normally and logs nothing. Each case is verified on .NET 8 and .NET 10. The built-in .NET analyzers, Semgrep and CodeQL detect none of them.
-- Also: [AiChatRagSystem](https://github.com/GrantTotinov/AiChatRagSystem), Q&A over your own documents with RAG (.NET 8, React, Ollama), [GrantFoodsMAUI](https://github.com/GrantTotinov/GrantFoodsMAUI), a cross-platform food ordering app in .NET MAUI, and [uni-event-app](https://github.com/GrantTotinov/uni-event-app), a university events app in React Native.
+- **[AI Exporter](https://github.com/GrantTotinov/AIExporter)**: saves your ChatGPT, Claude, Gemini and other AI chats as PDF, Word, Markdown and more. 400+ users, rated 5/5. [Chrome](https://chromewebstore.google.com/detail/gptchatdownloader/objkcakdcilfaphifjfcgfamlnnbinjc) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/aiexporter/) · [Edge](https://microsoftedge.microsoft.com/addons/detail/ai-exporter-chatgpt-cla/ogkpijnjfiebjpcllkkgablmiijgjhim)
+- **[PixelForge](https://github.com/GrantTotinov/PixelForge)**: MIT image processing for .NET with an ImageSharp-style API, no license key and safe defaults for user uploads. [NuGet](https://www.nuget.org/packages/PixelForge)
+- **[UploadGuard](https://github.com/GrantTotinov/UploadGuard)**: secure file uploads for ASP.NET Core that catch zip bombs, macros, PDF JavaScript and disguised files. [NuGet](https://www.nuget.org/packages/UploadGuard)
+- **[aspnetcore-security-bench](https://github.com/GrantTotinov/aspnetcore-security-bench)**: a benchmark and [technical report](https://doi.org/10.5281/zenodo.23822216) on ASP.NET Core misconfigurations that CodeQL, Semgrep and the .NET analyzers all miss.
+- Earlier projects: [AiChatRagSystem](https://github.com/GrantTotinov/AiChatRagSystem), [GrantFoodsMAUI](https://github.com/GrantTotinov/GrantFoodsMAUI) and [uni-event-app](https://github.com/GrantTotinov/uni-event-app).
 
 ## Open source contributions
 
